@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url("./paisaje.jpg");
+    background-size: 1400px;
+    background-repeat: no-repeat;
+    background-position: center;
+} /* asi acomode el tamaño de fondo de una imagen */
+
+img {
+   position: absolute;
+}
+
+h1 {
+    text-decoration: solid;
+    margin-top: 70px;
+    padding: 50px;
+    color:orange;
+}
+
+.top h2 {
+    margin-top: 100px;
+    color:silver;
+}
+
+.top em {
+text-decoration: underline;
+}
+
+section {
+    margin-top: 50px;
+}
+
+label {
+    text-transform: uppercase;
+    text-decoration:underline;
+    
+}
+
+button {
+    background-color:burlywood;
+}
+
+footer {
+  margin-top: 200px;
+}
